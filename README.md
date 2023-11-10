@@ -1,7 +1,7 @@
 Hi 👋 My name is Samapan Thongmee
 =================================
 
-Well Services Supervisor | Data Scientist
+Well Services Supervisor | Data Science Enthusiast
 -----------------------------------------
 
 I have been learning coding for 2 years, focusing particularly on data science and machine learning. I am looking for a remote internship in machine learning and deep learning.
